@@ -1,3 +1,7 @@
+<div align="center">
+  <h3>Project Views</h3>
+  <img src="https://komarev.com/ghpvc/?username=RishiM1408-ProjectName&label=Project%20Views&color=0e75b6&style=flat" alt="Project Views" />
+</div>
 # Masterclass in Java Design Patterns
 
 Welcome to the **Masterclass in Java Design Patterns**. This repository is an educational resource designed for backend engineers to master the 23 Gang of Four (GoF) design patterns using modern Java (17+).
