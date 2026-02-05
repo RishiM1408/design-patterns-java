@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Project Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=RishiM1408-ProjectName&label=Project%20Views&color=0e75b6&style=flat" alt="Project Views" />
+  <img src="https://komarev.com/ghpvc/?username=RishiM1408-design-patterns-java&label=Project%20Views&color=0e75b6&style=flat" alt="Project Views" />
 </div>
 # Masterclass in Java Design Patterns
 
